@@ -21,7 +21,7 @@
    - **Cloud LLM Support**: Seamlessly connects to Google Gemini (`GEMINI_API_KEY`) or OpenAI (`OPENAI_API_KEY`) when supplied in `.env.local`.
 
 4. **🌐 Multi-Language Localization**
-   - Instant language switching across **English**, **हिंदी (Hindi)**, **தமிழ் (Tamil)**, **తెలుగు (Telugu)**, **বাংলা (Bengali)**, **मराठी (Marathi)**, and **Español**.
+   - Instant language switching across **English**, **हिंदी (Hindi)**, **தமிழ் (Tamil)**.
 
 5. **🔍 Comprehensive Welfare Directory**
    - Categorized by **Agriculture**, **Healthcare**, **Education**, **Housing**, **Business & MSME**, **Social Welfare**, and **Women & Child**.
